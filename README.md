@@ -47,8 +47,6 @@ To get started with the Cold Email Generation Tool, follow these steps:
 
 ## Usage
 
-To use the Cold Email Generation Tool, run the following command to start the application:
-
 To run the Streamlit server, use the following command:
 
 ```bash
