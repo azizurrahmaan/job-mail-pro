@@ -62,3 +62,6 @@ vectorstore/
 *.model
 *.bin
 *.cache
+
+# mypy
+.mypy_cache
